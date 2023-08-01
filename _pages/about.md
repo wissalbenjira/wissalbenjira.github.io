@@ -10,6 +10,10 @@ redirect_from:
 
 This is Wissal Benjira Account's home on the web!
 
+About Me
+======
+I am a first year Ph.D. student at [Pole Universitaire Leonard de Vinci](https://www.devinci.fr/research-center/), [IGN](https://www.ign.fr/). My co-supervisors are [Nicolas Travers](https://chewbii.com/accueil/cv/) and [Bénédicte Bucher](https://www.umr-lastig.fr/benedicte-bucher/). My co-advisors are [Malika Grim-Yefsah](https://www.umr-lastig.fr/malika-grim-yefsah/) and [Faten Atigui](https://cedric.cnam.fr/lab/en/author/atigui/) I am currently working on Sport Event Legacy.
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
