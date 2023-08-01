@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Wissal Benjira"
-  avatar           : "IMG-6191.JPG"
+  avatar           : "wissal.JPG" #"IMG-6191.JPG"
   bio              : "PhD student at DVRC and IGN"
   location         : "Paris, France"
   employer         :
