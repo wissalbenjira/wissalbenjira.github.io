@@ -10,7 +10,11 @@ redirect_from:
 
 About Me
 ======
-I am a first year Ph.D. student at [Pole Universitaire Leonard de Vinci](https://www.devinci.fr/research-center/), [IGN](https://www.ign.fr/). My co-supervisors are [Nicolas Travers](https://chewbii.com/accueil/cv/) and [Bénédicte Bucher](https://www.umr-lastig.fr/benedicte-bucher/). My co-advisors are [Malika Grim-Yefsah](https://www.umr-lastig.fr/malika-grim-yefsah/) and [Faten Atigui](https://cedric.cnam.fr/lab/en/author/atigui/) I am currently working on Sport Event Legacy.
+## Presentation
+I am a first year Ph.D. student at [Pole Universitaire Leonard de Vinci](https://www.devinci.fr/research-center/), [IGN](https://www.ign.fr/). My co-supervisors are [Nicolas Travers](https://chewbii.com/accueil/cv/) and [Bénédicte Bucher](https://www.umr-lastig.fr/benedicte-bucher/). My co-advisors are [Malika Grim-Yefsah](https://www.umr-lastig.fr/malika-grim-yefsah/) and [Faten Atigui](https://cedric.cnam.fr/lab/en/author/atigui/) 
+
+## Research topics
+I am currently working on Sport Event Legacy.
 
 News
 ======
