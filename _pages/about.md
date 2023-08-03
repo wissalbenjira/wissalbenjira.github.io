@@ -12,9 +12,9 @@ About Me
 ======
 
 I am a first year PhD student at DVRC and IGN.
-Under the co-direction of [Nicolas Travers](https://chewbii.com/accueil/cv/) and [Bénédicte Bucher](https://www.umr-lastig.fr/benedicte-bucher/), and with the co-advisory guidance of [Malika Grim-Yefsah](https://www.umr-lastig.fr/malika-grim-yefsah/) and [Faten Atigui](https://cedric.cnam.fr/lab/en/author/atigui/), I am pursuing advanced research in Computer Science specialized in Information Systems for Decision Support.
+Under the co-direction of [Nicolas Travers](https://chewbii.com/accueil/cv/) and [Bénédicte Bucher](https://www.umr-lastig.fr/benedicte-bucher/), and with the co-advisory guidance of [Malika Grim-Yefsah](https://www.umr-lastig.fr/malika-grim-yefsah/) and [Faten Atigui](https://cedric.cnam.fr/lab/en/author/atigui/), I am pursuing advanced research in Computer Science.
 
-My current research focuses on the exploration of open data to develop city sustainability indicators demonstrated through a case study on sport event legacy on host cities.
+My current research treats Information Systems for Decision Support and focuses on the use of Open Data to develop City Sustainability Indicators. 
 
 News
 ======
