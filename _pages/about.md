@@ -21,5 +21,5 @@ News
 - One paper is accepted to BDA 2023.
 - Co-reviewed papers for ADMA, DEXA and RCIS 2023.
 - Attended [Hi! Paris](https://www.hi-paris.fr/) Summer School 2023.
-- Part of the organization of a research day about E-Health & Ethics
-- One poster is accepted to 5th Symposium GDR CNRS MADICS 2023.
+- Part of the organization of a research day about [E-Health & Ethics](https://conferences.dvrc.fr/eHealth-ethics23/).
+- One poster is accepted to [5th Symposium GDR CNRS MADICS](https://www.madics.fr/event/symposium-madics-5/) 2023.
