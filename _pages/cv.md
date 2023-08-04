@@ -29,12 +29,12 @@ Work experience
   
 Publications
 ======
-.
 <!-- Commenting out the following code block:
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 --> 
+.
 
 Teaching
 ======
