@@ -7,10 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-### [Advanced Topics in NoSQL Databases]
+### Advanced Topics in NoSQL Databases
 Practical Work, [ESILV](https://www.esilv.fr/), 2023.
 
-### [NoSQL Databases for Data Science]
+### NoSQL Databases for Data Science
 Practical Work, [ENSG](https://ensg.eu/fr), 2023.
   
 <!-- Commenting out the following code block:
