@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Wissal Benjira"
   avatar           : "wissal2.JPG" #"IMG-6191.JPG"
-  bio              : "PhD student at DVRC and LASTIG"
+  bio              : "PhD student at DVRC & LASTIG"
   location         : "Paris, France"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  orcid            : "https://orcid.org/0009-0004-9916-3893"
+  aorcid            : "https://orcid.org/0009-0004-9916-3893"
   googlescholar    : "https://scholar.google.com/"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
