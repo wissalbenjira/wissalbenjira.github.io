@@ -10,6 +10,14 @@ redirect_from:
 
 Welcome to my digital abode!
 
+<style>
+.justified {
+    text-align: justify;
+}
+</style>
+
+<div class="justified">
+
 About Me
 ======
 
@@ -19,6 +27,10 @@ Under the co-supervision of [Nicolas Travers](https://chewbii.com/accueil/cv/) a
 Computer Science.
 
 My ongoing research revolves around Information Systems for Decision Support and focuses on the exploration of Open Data to develop City Sustainability Indicators. 
+
+
+</div>
+
 
 News
 ======
