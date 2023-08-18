@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my digital abode!
-
 About Me
 ======
 
