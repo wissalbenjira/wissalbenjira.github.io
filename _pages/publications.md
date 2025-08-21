@@ -27,10 +27,10 @@ Conference Paper
   {% endif %}
 {% endfor %}
 
-Preprint
+Journal
 ======
 {% for post in site.publications reversed %}
-  {% if post.pubtype == 'preprint' %}
+  {% if post.pubtype == 'journal' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
