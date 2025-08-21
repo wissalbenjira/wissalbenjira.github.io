@@ -1,18 +1,36 @@
 ---
 layout: archive
-title: "Publications"
+title: 
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<!--{% if site.author.googlescholar %}
+  You can also find my articles on <u><a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}-->
 
 {% include base_path %}
 
-<!-- Commenting out the following code block:
+<!-- <h2>Journal Articles</h2>
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% if post.pubtype == 'journal' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %} -->
+
+
+Conference Paper
+======
+{% for post in site.publications reversed %}
+  {% if post.pubtype == 'conference' %}
+      {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
--->
+
+Preprint
+======
+{% for post in site.publications reversed %}
+  {% if post.pubtype == 'preprint' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
