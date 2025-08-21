@@ -20,8 +20,6 @@ My ongoing research revolves around Information Systems for Decision Support and
 
 News
 ======
-- One paper is accepted to [BDA 2023](https://bda2023.sciencesconf.org/).
-- Co-reviewed papers for ADMA, DEXA and RCIS 2023.
-- Attended [Hi! Paris](https://www.hi-paris.fr/) Summer School 2023.
-- Part of the organization of a research day about [E-Health & Ethics](https://conferences.dvrc.fr/eHealth-ethics23/).
-- One poster is accepted to [5th Symposium GDR CNRS MADICS](https://www.madics.fr/event/symposium-madics-5/) 2023.
+- One paper is accepted to [VLDB 2025](https://bda2025.sciencesconf.org/).
+- Co-reviewed papers for [CIKM 2025](https://bda2025.sciencesconf.org/).
+- Two papers are accepted to [BDA 2025](https://bda2025.sciencesconf.org/).
